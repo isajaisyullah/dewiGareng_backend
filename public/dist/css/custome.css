@@ -1,0 +1,56 @@
+@media (min-width: 1200px) {
+    .responsive-card {
+        width: 40vw;
+    }
+    .responsive-card-lg {
+        width: 40vw;
+    }
+
+    .responsive-font-h {
+        font-size: 20px;
+    }
+
+    .responsive-font-md {
+        font-size: 16px;
+    }
+    
+}
+
+@media (max-width: 1199.98px) {
+    .responsive-card {
+        width: 60vw;
+    }
+
+    .responsive-card-lg {
+        width: 45vw;
+    }
+
+    .responsive-font-h {
+        font-size: 20px;
+    }
+    .responsive-font-md {
+        font-size: 16px;
+    }
+    
+}
+
+@media (max-width: 767.98px) {
+    .responsive-card {
+        width: 80vw;
+    }
+    .responsive-card-lg {
+        width: 95vw;
+    }
+
+    .responsive-card-title {
+        font-size: 30px;
+    }
+
+    .responsive-font-h {
+        font-size: 13px;
+    }
+    .responsive-font-md {
+        font-size: 13px;
+    }
+    
+}
